@@ -1,7 +1,9 @@
 {
     "name": "epornerapi/epornerapi",
     "description": "Simple eporner video api",
-    "type": "metapackage",
+    "homepage": "https://www.eporner.com/api/v2/",
+    "keywords": ["adult", "videos", "porn", "adult-videos", "porn-videos", "api"],
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -10,7 +12,8 @@
     },
     "authors": [
         {
-            "name": "devcoda"
+            "name": "Turyomwe Derrick 0r devcoda25",
+            "email": "devcoda25@gmail.com"
         }
     ],
     "minimum-stability": "stable",
