@@ -1,5 +1,6 @@
 {
     "name": "epornerapi/epornerapi",
+    "version": "1.0.0",
     "description": "Simple eporner video api",
     "homepage": "https://www.eporner.com/api/v2/",
     "keywords": ["adult", "videos", "porn", "adult-videos", "porn-videos", "api"],
